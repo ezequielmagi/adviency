@@ -1,3 +1,4 @@
+
 import './globals.css'
 import { GiftProvider } from './context/giftContext'
 
@@ -9,6 +10,7 @@ export default function RootLayout({ children }) {
         <GiftProvider>
           {children}
         </GiftProvider>
+        <script defer src="https://app.embed.im/snow.js"></script>
         </body>
     </html>
   )

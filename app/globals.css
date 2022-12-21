@@ -17,9 +17,19 @@ input {
 .hide {
   display: none;
 }
+
 .show {
   display: block;
 }
+
 .flex {
   display: flex;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: .5rem;
 }
