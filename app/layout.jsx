@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
           {children}
         </GiftProvider>
         <script defer src="https://app.embed.im/snow.js"></script>
-        </body>
+      </body>
     </html>
   )
 }

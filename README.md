@@ -1,5 +1,5 @@
 
-## Adviency 17
+## Adviency 23
 
-Día 18: La gente agrega muchos regalos y necesita saber el total de lo que gastaría, pongamos el total.
+Día 23: Ya casi es navidad! Agreguemos unos copitos de nieve a nuestra app para darle el último toque navideño ❄
 
