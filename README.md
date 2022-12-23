@@ -1,9 +1,9 @@
 
-## Adviency 23
+## Adviency
 
-Día 23: Ya casi es navidad! Agreguemos unos copitos de nieve a nuestra app para darle el último toque navideño ❄
+Calendario de #adviency 🎄. Hacimos la misma aplicación, 24 veces desde 0, con una funcionalidad nueva cada día
 
 
-### Demo
+### Demo de la version final
 
 [https://adviency-jereconjota.vercel.app/](https://adviency-jereconjota.vercel.app/)
