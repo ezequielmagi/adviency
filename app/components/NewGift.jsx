@@ -75,7 +75,7 @@ function NewGift() {
             <form className={styles.form}>
                 <div className={styles.align}>
                     <input type="text" id="gift" name="gift" value={gift} onChange={(e) => setGift(e.target.value)} placeholder='Gift' />
-                    <button className={styles.btn} onClick={randomGift}> Sorprice me! </button>
+                    <button className={styles.btn} onClick={randomGift}> Surprise me! </button>
                 </div>
                 <input type="number" id="quantity" name="quantity" value={quantity} onChange={(e) => setQuantity(e.target.value)} placeholder='Quantity' />
                 <input type="text" id="img" name="img" value={img} onChange={(e) => setImg(e.target.value)} placeholder='Image url' />
